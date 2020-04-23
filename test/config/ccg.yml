@@ -1,7 +1,7 @@
 server:
   port: 443
   ssl:
-    key-store: classpath:3781673_www.yhycs.com.pfx
+    key-store: classpath: 3781673_www.yhycs.com.pfx
     key-store-password: Pe3L6ACT
     keyStoreType: PKCS12
 
