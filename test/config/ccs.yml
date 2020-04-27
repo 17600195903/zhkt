@@ -23,9 +23,6 @@ mybatis:
   config-location: classpath:mybatis.xml
   mapper-locations: classpath:com/yhxy/mapper/**/*.xml
 
-spring:
-  application:
-    name: ccg
   devtools:
     restart:
       enabled: true  #设置开启热部署   true为开启
